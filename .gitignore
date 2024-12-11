@@ -1,0 +1,6 @@
+llvm-build/*
+llvm-install/*
+llvm-source/*
+valgrind-source/*
+.DS_Store
+.vscode
